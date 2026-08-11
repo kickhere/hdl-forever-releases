@@ -1,2 +1,2 @@
 # hdl-forever-releases
-Repor for HDL Forever releases
+Repo for HDL Forever releases
